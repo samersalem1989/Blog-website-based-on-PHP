@@ -1,0 +1,6 @@
+#myimg{max-height: 200px;max-width:160px;}
+
+body > div > section.blog-list.px-3.py-5.p-md-5 > div > div:nth-child(6) > div > div.col > div.meta.mb-1 > span:nth-child(3) > img{
+    width: 5px;
+    border-radius: 50%;
+}
